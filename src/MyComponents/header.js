@@ -1,13 +1,11 @@
 import React from "react";
+import funny from "../funny.png";
 
 function Header() {
   return (
     <h1>
       <header>
-        <img
-          src="http://www.pngall.com/wp-content/uploads/2018/05/Epic-Face-High-Quality-PNG.png"
-          alt="Problem?"
-        />
+        <img src={funny} alt="problem?" />
         <p>Meme Maker</p>
       </header>
     </h1>

@@ -78,12 +78,12 @@ header > p {
 }
 
 .meme > .bottom {
-  font-size: small;
+  font-size: large;
   bottom: 0;
 }
 
 .meme > .top {
-  font-size: small;
+  font-size: large;
   top: 0;
 }
 
